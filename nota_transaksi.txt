@@ -1,0 +1,8 @@
+NOTA TRANSAKSI BARANG
+
+No Nota    Barcode    Nama       Hrg Jual   Jumlah     Total    PPN        Bunga      Tot Bayar  Metode       Souvenir       
+------------------------------------------------------------------------------------------------------------------------------------------
+11         11111      hmp        660000,00  2          1320000,00 145200,00  0,00       1465200,00 cash         Voucher Belanja 100rb
+11         12         hamp       8000,00    5          40000,00 4400,00    1000,00    45400,00   tempo        -              
+
+TOTAL SELURUH PEMBAYARAN: Rp 1510600,00
